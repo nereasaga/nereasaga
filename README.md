@@ -20,16 +20,14 @@ I recently completed the **Full Stack Web Development bootcamp** at **Peñascal 
 - 🔬 **Experiments and small tests**  
 - ✨ **Constantly improving code**
 
-## 🎸 A Little More About Me  
-Curiosity drives me, and I'm always looking to learn and improve. When I'm not coding, you'll likely find me playing bass or diving into other creative pursuits!
-
 ## 🌱 What I’m learning
 Currently diving deeper into bioinformatics with Python and improving my Java skills.
 
-If you're interested in web development, feel free to explore my repositories.  
-I'm always open to feedback and collaboration!
+## 🎸 A Little More About Me  
+Curiosity drives me, and I'm always looking to learn and improve. When I'm not coding, you'll likely find me playing bass or diving into other creative pursuits!
 
 ## 📩 Get in Touch  
+Currently open to collaboration or junior developer roles. Don't hesitate to reach out!
 
 - [Portfolio](https://nereasaga.github.io/portfolio-def)
 - [LinkedIn](https://linkedin.com/in/nereasgallastegui)
