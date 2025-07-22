@@ -1,27 +1,38 @@
 # 👋 Hello! I'm @nereasaga, welcome to my GitHub!  
 
-## 🚀 About Me  
+I'm a web developer from **Bizkaia, Spain**, who loves combining creative design with logical problem-solving. My goal is to craft **clean, intuitive web applications**, and I genuinely enjoy the process of learning new technologies with every project.
 
-I'm a passionate **Full Stack Web Development** student at the **Peñascal F5 bootcamp**.  
-This is where I share the projects I work on during my learning journey.  
-Each repository represents a step forward in my growth as a developer and a chance to refine my skills.  
+I recently completed the **Full Stack Web Development bootcamp** at **Peñascal F5**, an intense experience that truly refined my skills. This GitHub is where I showcase the projects and experiments from that journey, each repository representing a significant step in my growth as a developer.
 
 ## 🛠️ Tech Stack  
 
-- ✨ **HTML** – The backbone of the web.  
-- 🎨 **CSS** – Bringing style and design to my projects.  
-- ⚡ **JavaScript** – Adding interactivity and functionality.  
-- 🖥️ **Vue.js** – Building modern and reactive user interfaces.  
+- 🎨 **Frontend**  HTML, CSS, JavaScript, Vue.js 
+- ✨ **Backend**  Python (Flask), Java (Spring Boot), REST APIs  
+- ⚡ **Databases**   MySQL, Oracle, SQLite, PostgreSQL, MongoDB  
+- 🖥️ **Tools**  Git/GitHub, Sourcetree, Agile (Scrum), Trello, Jira  
 
 ## 📂 What You'll Find Here  
 
+- 🐝 [Meteorology for Beekeepers](https://intxaurtietadev.github.io/meteobee) — SPA with Vue.js
+- ⌚ [Online Watch Store](https://heartfelt-cat-19391e.netlify.app/) — dynamic site with vanilla JS
+- 🎾 [Padel Club Website](https://nereasaga.github.io/proyecto-web-deportiva/) — static site
 - 📚 **Class projects and exercises**  
 - 🔬 **Experiments and small tests**  
-- ✨ **Constantly improving code**  
+- ✨ **Constantly improving code**
+
+## 🎸 A Little More About Me  
+Curiosity drives me, and I'm always looking to learn and improve. When I'm not coding, you'll likely find me playing bass or diving into other creative pursuits!
+
+## 🌱 What I’m learning
+Currently diving deeper into bioinformatics with Python and improving my Java skills.
 
 If you're interested in web development, feel free to explore my repositories.  
-I'm always open to feedback and collaboration! 🚀  
+I'm always open to feedback and collaboration!
 
 ## 📩 Get in Touch  
 
-You can reach me at **sgm.nerea@gmail.com** 😊  
+- [Portfolio](https://nereasaga.github.io/portfolio-def)
+- [LinkedIn](https://linkedin.com/in/nereasgallastegui)
+- [GitHub](https://github.com/nereasaga)
+
+You can also reach me at **sgm.nerea@gmail.com** 😊  
