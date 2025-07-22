@@ -24,7 +24,7 @@ I recently completed the **Full Stack Web Development bootcamp** at **Peñascal 
 Currently diving deeper into bioinformatics with Python and improving my Java skills.
 
 ## 🎸 A Little More About Me  
-Curiosity drives me, and I'm always looking to learn and improve. When I'm not coding, you'll likely find me playing bass or diving into other creative pursuits!
+Curiosity drives me, and I'm always looking to learn and improve. When I'm not coding, you'll likely find me playing bass or diving into other creative pursuits.
 
 ## 📩 Get in Touch  
 Currently open to collaboration or junior developer roles. Don't hesitate to reach out!
