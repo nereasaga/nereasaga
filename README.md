@@ -31,6 +31,5 @@ Currently open to collaboration or junior developer roles. Don't hesitate to rea
 
 - [Portfolio](https://nereasaga.github.io/portfolio-def)
 - [LinkedIn](https://linkedin.com/in/nereasgallastegui)
-- [GitHub](https://github.com/nereasaga)
 
 You can also reach me at **sgm.nerea@gmail.com** 😊  
